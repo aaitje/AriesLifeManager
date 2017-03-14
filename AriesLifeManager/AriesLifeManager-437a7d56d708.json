@@ -1,0 +1,12 @@
+  {
+  "type": "service_account",
+  "project_id": "arieslifemanager",
+  "private_key_id": "437a7d56d708a37284269de143f990ac2d6c6ea6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtXR44YY2m89qJ\nCzOe/fzNL5ImSVIct+hqPl8ljfy1Id1Rgj0UaAeqPguXpJLYJLiLgFHl2jQOGokF\nvvY0z/uiw9fmmH+Jko4kQqzr5T5zAnyydElYQ7jumWE80KgK3yRTvpYEyTPR7K5C\nlLPx67C41ZJEu1GlTXIUyBdB+ZXtt4TGod9l4MaD5gVrZ7ETd0N0jUt4qFmj0ehR\nFO7oxQlCyU2/SpTwybGcjNkAAZiOoI5LENCLlNK581TEOYS5NerDN26XP8G3c5te\nBaXoqSACO7jE/AbPRNuZ5aahf9zQ/2/V0+OGhGUrL6kbCXUuRtgp0P7scbxT8zXS\nFapEVXNzAgMBAAECggEAcGqeiw7vLOCZyB4EZkfqox8C1WLcJRU4V5SEXDTbNpV0\nD0O12cKvnbxIBhhIxHHjXUpjUPoSoUahraErxAlN8jiuirA+m3X2SBsYSItJ2Ig3\nVfzEBsE7bTT2cdoX7ZzO0KMYYpgZyzl/slr86JXd7a1IANu60McMf99T/Ysbpp41\n9x17t1TyXZJy/MoXEuu7GOmc/zaYLkHfkEaU/tNGAmhXCr+bb+MKt0YaxjM1DttR\nA6V/SxLt2mjcern2cA2TBvIFIbD1VJHCuV6NG/utkzgr+MsgWpriRWG/+ed3XWp4\nKL0CSS9guoUFG8qZs9I7jVfT9IWBYhv4FUL5Kl2fEQKBgQDUyAN3vJwfXTt7iX17\nKcz08gNybY7PB9sNkVx2l2e30BXPrpxWfihidZbRMA5JtiQFtNNwTr+r6oOObYos\n4coTlZeGQi5e+SkutnbuP03l0p/HyReRDKwd3Q2thUdcvc9H7g0KPFdvdslFrEPl\nDxlXCPUEYQWhxPWmrS/i5Z9BOwKBgQDQk4KZcDF37Rcff30wnJJlwi1hc2m8aQBU\nzKKTymb4MvWmnKMljcb2F5bJFUGR1OZjItwgJTSQwfBL53rlyKmY/u7ERMQ8ntz6\nvaI1Q4jkOxSNQ3yNSpR4jpXn/gOQ8VcraPo+udf8hLW2zizDLBl6gSsBUchFVLmC\n644iOivzKQKBgG1CVyWAn9orEYQZ0WkQycFtFAAJ6a69JeoNniD3Fbb5DnoZ+wUe\nurX0E4FO38dR06VqeLfOd/Va8jqMXMs3FYCA69Fw4ka6Qj9OSjuEHgfI42q/A27j\nxu1+uKtFKKOig3E391IuMed2Y1t3XVWdLzHV05pwB2hNrqXrgA9OQTxJAoGAKjki\nYBNxQDjTzIGPg06+6DCl5StrBUQwV/pREyAPNkGCrybYdBq+Y0UlNjHCY1Y5CWqe\nKze8620HSyZiH7A+fQVmqn7NRwRV8cB/3M5+IM3A/FPkG+o0Ii+jMyKd8DKbFeOb\nfSU8DxeCfa5BK4V65uzNGuhGZZqgL1umG1GxYfkCgYB0vFJmtXDM2PIyBTpNyuaY\n6v/blOsIQGizQWZ78ezRgQDvv25LgNSCltTtwEL423caemgbOz9l+v3+sHDR6NbJ\nFpIaI35ORuggMgn6Ko+iyL9bIDUeg0YBzq3lFRr7/nJvN/U5Sg4rG9ZUZykhNKmH\nEyaChP4Ke3LIb1ywHDnLoQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "arieslifemanager@appspot.gserviceaccount.com",
+  "client_id": "111029436124518226806",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arieslifemanager%40appspot.gserviceaccount.com"
+}
